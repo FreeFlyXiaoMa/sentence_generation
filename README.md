@@ -1,4 +1,4 @@
-## https://github.com/ouprince/text-rank.git
+
 ## 简单介绍
 	这里的代码主要是采用text-rank算法计算文本摘要，另外优势在于引入了词向量和权重倾斜
 	使得文章摘要提取效果得到了非常显著的提升。
